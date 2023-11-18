@@ -11,9 +11,9 @@ My passion is to explore new opportunities in the world of decentralization and 
 
 #### You can contact me at:
 ![Send me a message](https://img.shields.io/badge/just%20send%20me%20a%20message-7cfc00)
-- LinkedIn: [My profile link](https://www.linkedin.com/in/константин-ковалёв-2aa153235/)
-- Email: ikot777@gmail.com
-- Messanger: [Telegram](https://t.me/kot2271)
+- ![LinkedIN](https://img.shields.io/badge/LinkedIn-1560bd?style=flat&logo=linkedin): [My profile link](https://www.linkedin.com/in/константин-ковалёв-2aa153235/)
+- ![Email](https://img.shields.io/badge/-Email-ffffff?style=flat&logo=gmail): ikot777@gmail.com
+- ![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=flat&logo=telegram): [Telegram](https://t.me/kot2271)
 
 ### My tech stack
 ![Solidity](https://img.shields.io/badge/-Solidity-8547c2?style=plastic&logo=solidity)
