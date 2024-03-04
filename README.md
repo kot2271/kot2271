@@ -1,12 +1,13 @@
 ## Hi there, I'm Konstantin  👋
 
 ### About me
-I am a Blockchain developer with experience in building decentralized applications and smart contracts in the Solidity programming language.
-My passion is to explore new opportunities in the world of decentralization and distributed systems.
+I am a Software developer with a passion for crafting clean, maintainable, and efficient software. I enjoy working on both front-end and back-end applications, and I'm always eager to learn new frameworks and libraries.
+I'm particularly interested in building scalable microservices, developing user-friendly web applications.
 
-### My blockchain skills
-- **Programming languages:** Solidity, TypeScript, Java, Python
-- **Technologies:** DeFi, NFT, Uniswap, OpenZeppelin, ERC-20, ERC-721, ERC-1155
+### My hard skills
+- **Programming languages:** Java, Python, Solidity, TypeScript
+- **Technologies:** Spring Framework, Spring Boot, Maven, Gradle, Docker, JUnit, PostgreSQL, Redis, MongoDB, RabbitMQ, Kafka
+- **Blockchain Technologies:** DeFi, NFT, Uniswap, OpenZeppelin, ERC-20, ERC-721, ERC-1155
 - **Toolboxes:** HardHat, Remix, Web3, Ethers
 
 #### You can contact me at:
@@ -16,6 +17,27 @@ My passion is to explore new opportunities in the world of decentralization and 
 - [![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=flat&logo=telegram)](https://t.me/kot2271)
 
 ### My tech stack
+<a href="#">
+    <img src="https://img.shields.io/badge/-Java-ffffff?style=plastic&logo=openjdk" height="23">
+</a>
+<a href="#">
+    <img src="https://img.shields.io/badge/-Spring-f2f3f4?style=plastic&logo=spring" height="23">
+</a>
+<a href="#">
+    <img src="https://img.shields.io/badge/-Hibernate-ffd700?style=plastic&logo=hibernate" height="23">
+</a>
+<a href="#">
+    <img src="https://img.shields.io/badge/-PostgreSQL-dbe3ff?style=plastic&logo=postgresql" height="23">
+</a>
+<a href="#">
+    <img src="https://img.shields.io/badge/-Oracle-d0003b?style=plastic&logo=oracle" height="23">
+</a>
+<a href="#">
+    <img src="https://img.shields.io/badge/-Kafka-3b444b?style=plastic&logo=apachekafka" height="23">
+</a>
+<a href="#">
+    <img src="https://img.shields.io/badge/-RabbitMQ-f5f5dc?style=plastic&logo=rabbitmq" height="23">
+</a>
 <a href="#">
     <img src="https://img.shields.io/badge/-Solidity-8547c2?style=plastic&logo=solidity" height="23">
 </a>
@@ -54,27 +76,6 @@ My passion is to explore new opportunities in the world of decentralization and 
 </a>
 <a href="#">
     <img src="https://img.shields.io/badge/-TypeScript-bbd0f7?style=plastic&logo=typescript" height="23">
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/-Java-ffffff?style=plastic&logo=openjdk" height="23">
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/-Spring-f2f3f4?style=plastic&logo=spring" height="23">
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/-Hibernate-ffd700?style=plastic&logo=hibernate" height="23">
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/-PostgreSQL-dbe3ff?style=plastic&logo=postgresql" height="23">
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/-Oracle-d0003b?style=plastic&logo=oracle" height="23">
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/-Kafka-3b444b?style=plastic&logo=apachekafka" height="23">
-</a>
-<a href="#">
-    <img src="https://img.shields.io/badge/-RabbitMQ-f5f5dc?style=plastic&logo=rabbitmq" height="23">
 </a>
 <a href="#">
     <img src="https://img.shields.io/badge/-Python-fbec5d?style=plastic&logo=python" height="23">
